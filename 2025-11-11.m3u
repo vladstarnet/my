@@ -2149,8 +2149,6 @@ http://stream.skaz.tv/stream/ch653/7a14f78ba5/mono.m3u8
 http://bethoven.af-stream.com:1600/s/257jbj2g/eu-music-hd/video.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/UA_Music.png" ,UA music HD [UA]
 http://cdnua05.hls.tv/909/hls/8743361621b245838bee193c9ec28322/4831/stream.m3u8
-#EXTINF:-1  group-title="Music 📻🎶"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6c/UA_Music.png" ,UA music HD [UA]
-http://cdnua05.hls.tv/910/hls/8743361621b245838bee193c9ec28322/4831/stream.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="Europa Plus TV HD"  tvg-logo="http://skaz.tv/tvicons/715.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Europa Plus TV HD
 http://stream.skaz.tv/stream/ch715/7a14f78ba5/mono.m3u8
 #EXTINF:-1  group-title="Music 📻🎶"  tvg-id="evropa-plus-tv-hd"  tvg-logo="https://af-play.com/storage/images/pack_logos/fa66619af0aac73eba3e717b6bd56fde.png"   tvg-rec="0",Europa Plus TV HD
