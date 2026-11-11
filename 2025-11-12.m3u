@@ -3663,7 +3663,7 @@ http://stream.skaz.tv/stream/ch3229/7a14f78ba5/mono.m3u8
 http://stream.skaz.tv/stream/ch3230/7a14f78ba5/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Kernel TV Гравити Фолз"  tvg-logo="https://epg.iptvx.one/picons/kernel-gravityfalls.png"   catchup="fs" tvg-rec="3" timeshift="3", Kernel TV Гравити Фолз
 http://stream.skaz.tv/stream/ch3245/7a14f78ba5/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Kernel TV Губка Боб Квадратные Штаны"  tvg-logo="http://s.skaz.tv/tvicon/3246.png"   catchup="fs" tvg-rec="3" timeshift="3", Kernel TV Губка Боб Квадратные Штаны
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Kernel TV Губка Боб Квадратные Штаны"  tvg-logo="https://epg.iptvx.one/picons/kernel-gubkabob.png"   catchup="fs" tvg-rec="3" timeshift="3",Kernel TV Губка Боб Квадратные Штаны
 http://stream.skaz.tv/stream/ch3246/7a14f78ba5/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Kernel TV Драконы и Всадники Олуха"  tvg-logo="https://epg.iptvx.one/picons/kernel-drakony.png"   catchup="fs" tvg-rec="3" timeshift="3", Kernel TV Драконы и Всадники Олуха
 http://stream.skaz.tv/stream/ch3237/7a14f78ba5/mono.m3u8
@@ -3739,7 +3739,7 @@ http://stream.skaz.tv/stream/ch1779/7a14f78ba5/mono.m3u8
 http://stream.skaz.tv/stream/ch1764/7a14f78ba5/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Liberty Мульт 4K"  tvg-logo="https://epg.iptvx.one/picons/liberty-multukr4k.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",Liberty Мульт 4K
 http://stream.skaz.tv/stream/ch1771/7a14f78ba5/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Liberty Мультверсия FHD"  tvg-logo="http://s.skaz.tv/tvicon/3187.png"   catchup="fs" tvg-rec="3" timeshift="3", Liberty Мультверсия FHD
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Liberty Мультверсия FHD"  tvg-logo="https://epg.iptvx.one/picons/liberty-multiversia.png"   catchup="fs" tvg-rec="3" timeshift="3",Liberty Мультверсия FHD
 http://stream.skaz.tv/stream/ch3187/7a14f78ba5/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Liberty Симпсоны FHD"  tvg-logo="https://epg.iptvx.one/picons/liberty-simpsons.png"   catchup="fs" tvg-rec="3" timeshift="3",Liberty Симпсоны FHD
 http://stream.skaz.tv/stream/ch1751/7a14f78ba5/mono.m3u8
