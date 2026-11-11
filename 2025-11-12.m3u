@@ -3535,15 +3535,15 @@ https://s1.tv-nano.com/Magnat_HD_5119705/video.m3u8
 http://stream.skaz.tv/stream/ch1027/7a14f78ba5/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="Cartoons Short"  tvg-logo="https://epg.iptvx.one/picons/cartoons-short.png"   catchup="fs" tvg-rec="3" timeshift="6",Cartoons Short
 http://stream.skaz.tv/stream/ch1028/7a14f78ba5/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Kernel TV Винни и его Друзья"  tvg-logo="http://s.skaz.tv/tvicon/3279.png"   catchup="fs" tvg-rec="3" timeshift="3",Kernel TV Винни и его Друзья
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Kernel TV Винни и его Друзья"  tvg-logo="https://epg.iptvx.one/picons/kernel-vinni.png"   catchup="fs" tvg-rec="3" timeshift="3",Kernel TV Винни и его Друзья
 http://stream.skaz.tv/stream/ch3279/7a14f78ba5/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Kernel TV Том и Джерри"  tvg-logo="http://s.skaz.tv/tvicon/3275.png"   catchup="fs" tvg-rec="3" timeshift="3",Kernel TV Том и Джерри
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Kernel TV Том и Джерри"  tvg-logo="https://epg.iptvx.one/picons/kernel-tomjerry.png"   catchup="fs" tvg-rec="3" timeshift="3",Kernel TV Том и Джерри
 http://stream.skaz.tv/stream/ch3275/7a14f78ba5/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Kernel TV Утиные истории"  tvg-logo="http://s.skaz.tv/tvicon/3238.png"   catchup="fs" tvg-rec="3" timeshift="3",Kernel TV Утиные истории
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Kernel TV Утиные истории"  tvg-logo="https://epg.iptvx.one/picons/kernel-utinyeistorii.png"   catchup="fs" tvg-rec="3" timeshift="3",Kernel TV Утиные истории
 http://stream.skaz.tv/stream/ch3238/7a14f78ba5/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Kernel TV Чёрный Плащ"  tvg-logo="http://s.skaz.tv/tvicon/3233.png"   catchup="fs" tvg-rec="3" timeshift="3",Kernel TV Чёрный Плащ
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Kernel TV Чёрный Плащ"  tvg-logo="https://epg.iptvx.one/picons/kernel-chernyplasch.png"   catchup="fs" tvg-rec="3" timeshift="3",Kernel TV Чёрный Плащ
 http://stream.skaz.tv/stream/ch3233/7a14f78ba5/mono.m3u8
-#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Kernel TV Чип и Дейл"  tvg-logo="http://s.skaz.tv/tvicon/3234.png"   catchup="fs" tvg-rec="3" timeshift="3",Kernel TV Чип и Дейл
+#EXTINF:-1  group-title="Kids 🧸"  tvg-id="Kernel TV Чип и Дейл"  tvg-logo="https://epg.iptvx.one/picons/kernel-chipndale.png"   catchup="fs" tvg-rec="3" timeshift="3",Kernel TV Чип и Дейл
 http://stream.skaz.tv/stream/ch3234/7a14f78ba5/mono.m3u8
 #EXTINF:-1  group-title="Kids 🧸"  tvg-id="MM Tom and Jerry HD"  tvg-logo="https://epg.iptvx.one/picons/minimax-tom-and-jerry.png"   tvg-rec="1" catchup-type="auto" catchup_days="3",MM Tom and Jerry HD
 http://stream.skaz.tv/stream/ch1221/7a14f78ba5/mono.m3u8
